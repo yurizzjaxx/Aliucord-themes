@@ -10,8 +10,8 @@
     },
     "fonts": {},
     "simple_colors": {
-        "background": 0,
-        "background_secondary": 419430400,
+        "background": 385875968,
+        "background_secondary": 1056964608,
         "input_background": 419430400,
         "mention_highlight": 1071952896,
         "active_channel": 2107048005,
