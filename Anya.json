@@ -2,7 +2,8 @@
     "manifest": {
         "author": "yurizz3ddy_",
         "name": "Anya",
-        "version": "1.4.4"
+        "version": "1.4.4",
+        "updater": "https:\/\/raw.githubusercontent.com\/yuriZz3ddy\/Aliucord-themes\/main\/Anya.json"
     },
     "background": {
         "url": "https:\/\/i.ibb.co\/Jjdpb6v\/20240712-174357.png"
