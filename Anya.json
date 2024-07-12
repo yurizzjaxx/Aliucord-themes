@@ -1,0 +1,31 @@
+{
+    "manifest": {
+        "author": "yurizz3ddy_",
+        "name": "Anya",
+        "version": "1.4.4"
+    },
+    "background": {
+        "url": "https:\/\/i.ibb.co\/Jjdpb6v\/20240712-174357.png"
+    },
+    "fonts": {},
+    "simple_colors": {
+        "background": 0,
+        "background_secondary": 419430400,
+        "input_background": 419430400,
+        "mention_highlight": 1071952896,
+        "active_channel": 2107048005,
+        "accent": -14188851
+    },
+    "colors": {
+        "primary_dark_800": 402653184,
+        "primary_dark_200": -661780,
+        "primary_dark_300": -2051129,
+        "uikit_text_color_selector": 2129061606,
+        "uikit_btn_bg_color_selector_red": -2490290,
+        "uikit_settings_item_text_color_dark": -661780,
+        "dark_grey_2": -14303143,
+        "link": -8798209
+    },
+    "drawable_tints": {},
+    "raws": {}
+}
