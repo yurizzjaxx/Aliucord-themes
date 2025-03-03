@@ -1,0 +1,37 @@
+{
+    "manifest": {
+        "author": "yurizzjaxx_",
+        "name": "Kali Linux Android",
+        "version": "1.2.1",
+        "updater": "https:\/\/github.com\/yurizzjaxx\/Aliucord-themes\/blob\/main\/Kali%20Linux%20Android\/info.md"
+    },
+    "background": {
+        "url": "https:\/\/i.imgur.com\/pZm5pYF.jpeg"
+    },
+    "fonts": {},
+    "simple_colors": {
+        "background": 637534208,
+        "input_background": 402653184,
+        "background_secondary": 402653184,
+        "mention_highlight": 1256502272,
+        "active_channel": 989855744
+    },
+    "colors": {
+        "primary_300": -8184040,
+        "primary_800": 1703091992,
+        "channel_item_hub_selector": 416940110,
+        "primary_200": 1692853990,
+        "uikit_btn_bg_color_selector_red": -875088854,
+        "dark_grey_2": -14303143,
+        "uikit_btn_text_color_selector": -11769738,
+        "uikit_settings_item_text_color_dark": -133643,
+        "accent_material_dark": -2725874,
+        "primary_700": 1946157056,
+        "link": -1759351117
+    },
+    "drawable_tints": {
+        "abc_textfield_default_mtrl_alpha": 1677721600,
+        "abc_textfield_search_material": -1493172224
+    },
+    "raws": {}
+}
