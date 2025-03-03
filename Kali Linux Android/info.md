@@ -1,6 +1,4 @@
-## Kali Linux Android
-**Aliucord theme**
-<bt/>
+## Aliucord theme Kali Linux Android 📲
 
 #### Background fotos uso
 
