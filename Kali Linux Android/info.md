@@ -1,11 +1,16 @@
 ## Kali Linux Android
-- **Aliucord theme**
+**Aliucord theme**
 <bt/>
 
-### Background fotos uso
+#### Background fotos uso
 
 - **Screenshot 1**
-<img width=150 src="https://raw.githubusercontent.com/yurizzjaxx/Aliucord-themes/refs/heads/main/src/Screenshot_20250302-211847.png">
+<img width=150 src="https://raw.githubusercontent.com/yurizzjaxx/Aliucord-themes/refs/heads/main/src/Screenshot_20250302-212113.png">
 
 - **Screenshot 2**
-<img width=150 src="">
+<img width=150 src="https://raw.githubusercontent.com/yurizzjaxx/Aliucord-themes/refs/heads/main/src/Screenshot_20250302-211847.png">
+
+- **Screenshot 3**
+<img width=150 src="https://raw.githubusercontent.com/yurizzjaxx/Aliucord-themes/refs/heads/main/src/Screenshot_20250302-211926.png">
+
+**Obrigado imagem na tema fundo**
